@@ -14,3 +14,12 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 
 *  Try coming up with your own variables and data types.
 *  Experiment with the `typeof` operator on different values.
+
+| Day | Challenge | What I Learned |
+|---|---|---|
+| 2 | Operators | How to use arithmetic operators to perform basic calculations in JavaScript. Use `Assignment operators` to modify varialble values. Use `Comparison operators` for compare values. Use `Logical operators` for combine conditions. Use `Ternary operators` for concise conditional expressions.|
+
+**Stretch Goals**
+
+* Try writing your own script that uses arithmetic operators to solve a specific problem.
+* Experiment with the order of operations `PEMDAS` in JavaScript.
