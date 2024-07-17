@@ -43,3 +43,12 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 * Explore different types of loops in JavaScript.
 * Practice optimizing your loops for better performance by minimizing unnecessary iterations.
 * Challenge yourself by implementing a recursive function using loops.
+
+| Day | Challenge | What I Learned |
+|---|---|---|
+| 5 | Functions | Understand and define `functions` using `function declarations`, `expressions`, and `arrow functions`. use `function parameters` and `default values` effectively. create and utilize `higher-order` functions. Apply functions to solve common problems and perform calculations. Enhance `code reusability` and orgranization using functions. |
+
+**Stretch Goals**
+
+1. Explore different ways to define functions in JavaScript, such as using function expressions and arrow functions.
+2. Practice using function parameters to pass data into functions and make them more flexible.
