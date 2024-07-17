@@ -31,3 +31,15 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 **Stretch Goals**
 
 * Experiment with more complex conditional statements combining multiple operators.
+
+
+| Day | Challenge | What I Learned |
+|---|---|---|
+| 4 | Loops | Understand and use for `Loops` to iterate over a sequence of numbers. Utilize `while loops` for iteration. Apply `do... while loops` to ensure the loop body is executed at least once. Implement `nested loops` to solve more complex problems. Use loop control statements (`break` and `continue`) to control the flow of loops. |
+
+**Stretch Goals**
+
+* Experiment with different loop control statements (`break` and `continue`) to manipulate the flow of loops.
+* Explore different types of loops in JavaScript.
+* Practice optimizing your loops for better performance by minimizing unnecessary iterations.
+* Challenge yourself by implementing a recursive function using loops.
