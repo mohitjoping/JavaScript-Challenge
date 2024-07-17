@@ -23,3 +23,11 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 
 * Try writing your own script that uses arithmetic operators to solve a specific problem.
 * Experiment with the order of operations `PEMDAS` in JavaScript.
+
+| Day | Challenge | What I Learned |
+|---|---|---|
+| 3 | Control Structures | Understand basic `if-else` control flow. Use `nested if-else` statements to handle multiple conditions. Utilize `switch cases` for control flow based on specific values. Use `ternary operator` for concise condition checking. Combine multiple conditions to solve more omplex problems. |
+
+**Stretch Goals**
+
+* Experiment with more complex conditional statements combining multiple operators.
