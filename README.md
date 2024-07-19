@@ -52,3 +52,13 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 
 1. Explore different ways to define functions in JavaScript, such as using function expressions and arrow functions.
 2. Practice using function parameters to pass data into functions and make them more flexible.
+
+ Day | Challenge | What I Learned |
+|---|---|---|
+| 6 | Arrays | Create and manipulate `arrays` using various methods. Transform and aggregate array data using `map` `filer` and `reduce`. Iterate over arrays using `loops` and `iteration method`s. Understand and work with `multi-dimensional` arrays. |
+
+**Stretch Goals**
+
+* Explore advanced array methods like `forEach`, `find`, and `some`.
+* Practice working with multi-dimensional arrays and nested loops.
+
