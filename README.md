@@ -62,3 +62,12 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 * Explore advanced array methods like `forEach`, `find`, and `some`.
 * Practice working with multi-dimensional arrays and nested loops.
 
+ Day | Challenge | What I Learned |
+|---|---|---|
+| 7 | Objects | Create and manipulate `objects` with properties and methods, Understand and use the `this` keyword in object methods. Work with `nested objects` and `arrays of objects`. Iterate over an objects properties using `loops` and `built-in methods`. |
+
+**Stretch Goals**
+
+* Experiment with different ways to create objects in JavaScript.
+* Implement object methods that manipulate and transform object data.
+* Challenge yourself by creating complex nested objects and accessing their properties.
